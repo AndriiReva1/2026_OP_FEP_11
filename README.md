@@ -47,7 +47,7 @@
 Прізвище/
 └── Lab1/
     ├── report.pdf
-    └── solution.py
+    └── solution.c
 ```
 
 ---
